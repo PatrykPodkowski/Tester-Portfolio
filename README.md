@@ -28,6 +28,7 @@ Hello, my name is Patryk Podkowski. I have been interested in software testing f
 * Programmer Specialty: Python basics - Akademia kodu
 
 ## _My examples of bug reports_:
+[BugJira](https://drive.google.com/file/d/1QND5jm8-ALax3UNiZyokUNZroAUaeCIr/view?usp=sharing)
 
 
 
