@@ -27,7 +27,7 @@ Hello, my name is Patryk Podkowski. I have been interested in software testing f
 * Data Science in Python course - an introduction to data analysis - strefakursow.pl
 * Programmer Specialty: Python basics - Akademia kodu
 
-## _My examples of bug reports_:
+## _My examples of bug reports_: (in progress)
 [Bug1](https://drive.google.com/file/d/1QND5jm8-ALax3UNiZyokUNZroAUaeCIr/view?usp=sharing)
 
 
